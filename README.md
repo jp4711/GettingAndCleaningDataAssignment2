@@ -1,6 +1,6 @@
-Analysis of Accelerometer Data for Coursera getdata-002 Assessment 2
+##Analysis of Accelerometer Data for Coursera getdata-002 Assessment 2
 
-Steps:
+###Steps:
 
  - download data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
  - extract downloaded file into root directory of project repository

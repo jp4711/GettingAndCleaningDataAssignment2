@@ -1,7 +1,7 @@
 
 library(reshape2)
 
-setwd("~/Courses/GitHub/projects/DataScience/GettingAndCleaningData/Assignment2")
+#setwd("~/Courses/GitHub/projects/DataScience/GettingAndCleaningData/Assignment2")
 
 #Step 1: Merges the training and the test sets to create one data set.
 
