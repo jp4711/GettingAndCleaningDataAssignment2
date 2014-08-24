@@ -5,7 +5,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 Description of the original data can be found at
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-### The following steps are performed to generated required data set:
+### The following steps are performed to generated required data sets
 
 ####Step 1: Merges the training and the test sets to create one data set.
 
